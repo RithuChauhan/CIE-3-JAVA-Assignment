@@ -31,7 +31,7 @@ public class OnlineExam extends JFrame implements ActionListener {
 
         public OnlineExam() {
 
-                // Add 10 questions
+                
                 questions.add(new Question(
                                 "Which language is used for Java programming?",
                                 "Python", "Java", "C++", "HTML", 2));
@@ -81,7 +81,7 @@ public class OnlineExam extends JFrame implements ActionListener {
                 setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
                 setLayout(new BorderLayout());
 
-                // Top panel
+               
                 JPanel topPanel = new JPanel(new BorderLayout());
 
                 JLabel titleLabel = new JLabel(
@@ -97,7 +97,7 @@ public class OnlineExam extends JFrame implements ActionListener {
 
                 add(topPanel, BorderLayout.NORTH);
 
-                // Center panel
+                
                 JPanel centerPanel = new JPanel();
                 centerPanel.setLayout(new GridLayout(5, 1));
 
@@ -123,7 +123,7 @@ public class OnlineExam extends JFrame implements ActionListener {
 
                 add(centerPanel, BorderLayout.CENTER);
 
-                // Bottom buttons
+                
                 JPanel bottomPanel = new JPanel();
 
                 previousButton = new JButton("Previous");
@@ -142,7 +142,7 @@ public class OnlineExam extends JFrame implements ActionListener {
 
                 displayQuestion();
 
-                // 60-second timer
+                
                 timer = new Timer(1000, new ActionListener() {
 
                         public void actionPerformed(ActionEvent e) {
