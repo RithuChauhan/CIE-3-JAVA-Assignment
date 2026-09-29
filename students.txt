@@ -1,5 +1,0 @@
-rithu,1234
-sita,sita1234
-gita,1234
-ram,ram1234
-shyam,shyam123
