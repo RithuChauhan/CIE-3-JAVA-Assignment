@@ -1,0 +1,30 @@
+Java|Which keyword is used to create a class?|class|Class|new|object|1
+Java|Which method is the starting point of a Java program?|start()|main()|run()|begin()|2
+Java|Which keyword is used for inheritance?|this|super|extends|inherit|3
+Java|Which data type stores whole numbers?|float|int|char|boolean|2
+Java|Which keyword is used to create an object?|class|new|object|create|2
+Java|Which keyword is used to implement an interface?|extends|implements|interface|inherit|2
+Java|Which package contains Swing classes?|java.io|java.util|javax.swing|java.awt|3
+Java|Which block is always executed?|try|catch|finally|throw|3
+Java|Which keyword is used to define a constant?|constant|static|final|const|3
+Java|Which keyword is used to handle exceptions?|try|error|exception|handle|1
+Python|Which symbol is used for comments in Python?|//|#|/*|--|2
+Python|Which function is used to display output?|display()|show()|print()|output()|3
+Python|Which keyword is used to define a function?|function|def|fun|define|2
+Python|Which data type stores True or False?|int|string|bool|float|3
+Python|Which brackets are used for a list?|()|{}|[]|<>|3
+Python|Which keyword is used for a loop?|for|loop|repeat|iterate|1
+Python|Which operator is used for exponentiation?|^|**|//|%%|2
+Python|Which function is used to find the length?|length()|size()|len()|count()|3
+Python|Which keyword is used to import a module?|include|using|import|module|3
+Python|Which value represents no value in Python?|null|None|empty|void|2
+C|Who developed the C language?|James Gosling|Dennis Ritchie|Bjarne Stroustrup|Guido van Rossum|2
+C|Which symbol is used to end a statement?|.|:|;|,|3
+C|Which function is used to print output?|print()|printf()|display()|cout|2
+C|Which function is used to read input?|scanf()|input()|read()|get()|1
+C|Which data type stores a character?|int|char|float|double|2
+C|Which symbol is used to get the address of a variable?|*|&|#|%|2
+C|Which loop executes at least once?|for|while|do-while|if|3
+C|Which header file contains printf()?|stdlib.h|string.h|stdio.h|math.h|3
+C|Which keyword is used to define a constant variable?|constant|const|final|static|2
+C|Which operator is used for multiplication?|+|-|*|/|3
